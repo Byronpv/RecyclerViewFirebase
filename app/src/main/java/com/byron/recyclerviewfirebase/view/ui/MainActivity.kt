@@ -47,7 +47,9 @@ class MainActivity : AppCompatActivity() {
     }
 
     /**
-     * Después de llamar a observer
+     * Después de llamar a observer. Onchanged() se activamente inmediatamente
+     * y proporciona el valor que esta almacenado en el método fetchUserData(),
+     * si el objeto LiveData no estableció ningún valor en el método, no sé llama onChanged()
      */
 
     fun observeData(){
