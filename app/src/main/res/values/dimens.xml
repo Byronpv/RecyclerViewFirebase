@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginImagen">10dp</dimen>
+    <dimen name="paddingLinear">8dp</dimen>
+    <dimen name="borderImage">2dp</dimen>
+    <dimen name="marginTitulo">5dp</dimen>
+</resources>

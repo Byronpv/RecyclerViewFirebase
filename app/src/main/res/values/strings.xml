@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewFIrebase</string>
+    <string name="titulo">TITULO</string>
+    <string name="descripcion">Descripción</string>
+</resources>

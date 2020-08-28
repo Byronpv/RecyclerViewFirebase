@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "880288690478",
+    "firebase_url": "https://recyclers-4b0a4.firebaseio.com",
+    "project_id": "recyclers-4b0a4",
+    "storage_bucket": "recyclers-4b0a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880288690478:android:357d26d1edda7c71f54abf",
+        "android_client_info": {
+          "package_name": "com.byron.recyclerviewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880288690478-dnf3tajf62l65v65lhpnh1e7kb9f49ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQRcBM1H70aHHCGqIA4h6Wy-0QkmNXm7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880288690478-dnf3tajf62l65v65lhpnh1e7kb9f49ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
